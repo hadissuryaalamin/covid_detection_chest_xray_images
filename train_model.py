@@ -18,6 +18,8 @@ import matplotlib.pyplot as plt
 # 7. use regularization techniques
 # 8. use callbacks to stop when performance stops improving
 
+
+# hadis
 # Directories
 train_dir = 'train'
 test_dir = 'test'
